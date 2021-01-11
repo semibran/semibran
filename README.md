@@ -1,5 +1,5 @@
 ### Hi, I'm Brandon 👋
-I'm a front-end web developer invested in creating meaningful software anyone can use. I'm passionate about UI/UX design and discovering ways to make applications simpler, more accessible, and more effective.
+I'm a front-end web developer and designer. I'm passionate about UI/UX design and discovering ways to make applications simpler, more accessible, and more effective.
 
 I'm also a second term Computer Systems Technology (CST) student at BCIT currently in search of an entry-level co-op position.
 
