@@ -3,6 +3,6 @@ I'm a software developer and UI/UX designer. I enjoy building scalable and acces
 
 You can check out some of my work on [my website](https://semibran.github.io).
 
-- 📚 Languages: Python, JavaScript, C[#], Java
-- 🛠 Building with: React, Vue, Lit, Mithril
-- 👀 Interested in: Rust, Dart, Swift
+- 📚 Languages: Python, JavaScript, C[#]
+- 🛠 Building with: React, Lit, Pygame
+- 🚧 Current project: [HIEROSAGA](https://k-hei.itch.io/hierosaga-overture)
